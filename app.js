@@ -1,0 +1,1 @@
+// Initialize Firebase (we'll add this later)
